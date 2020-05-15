@@ -36,7 +36,7 @@ Chapter 1 References
     [doi:10.1145/2670979.2670986](http://dx.doi.org/10.1145/2670979.2670986)
 
 1.  Nelson Minar:
-      “[Leap Second Crashes Half   the Internet](http://www.somebits.com/weblog/tech/bad/leap-second-2012.html),” *somebits.com*, July 3, 2012.
+      “[Leap Second Crashes Half   the Internet](http://www.somebits.com/weblog/tech/bad/leap-second-2012.html),” *somebits.com*, July 3, 2012. :star:
 
 1.  Amazon Web Services:
       “[Summary of the Amazon EC2 and Amazon RDS Service   Disruption in the US East Region](http://aws.amazon.com/message/65648/),” *aws.amazon.com*, April 29, 2011.
@@ -1478,6 +1478,7 @@ Chapter 8 References
 
 1.  Nelson Minar:
       “[Leap Second Crashes Half   the Internet](http://www.somebits.com/weblog/tech/bad/leap-second-2012.html),” *somebits.com*, July 3, 2012.
+
 
 1.  Christopher Pascoe:
       “[Time,   Technology and Leaping Seconds](http://googleblog.blogspot.co.uk/2011/09/time-technology-and-leaping-seconds.html),” *googleblog.blogspot.co.uk*, September 15, 2011.

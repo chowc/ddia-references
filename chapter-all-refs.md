@@ -939,7 +939,10 @@ Chapter 5 References
 1.  Leslie Lamport:
     “[Time, Clocks, and the Ordering of Events in a Distributed System](http://research.microsoft.com/en-US/um/people/Lamport/pubs/time-clocks.pdf),” *Communications of the ACM*,
     volume 21, number 7, pages 558–565, July 1978.
-    [doi:10.1145/359545.359563](http://dx.doi.org/10.1145/359545.359563)
+    [doi:10.1145/359545.359563](http://dx.doi.org/10.1145/359545.359563) :star::star:
+
+    1. Lamport Clock;
+    2. External Consistency;
 
 1.  Joel Jacobson:
     “[Riak 2.0: Data Types](http://blog.joeljacobson.com/riak-2-0-data-types/),”
@@ -1020,8 +1023,8 @@ Chapter 6 References
 
 1.  “[Introduction to Cassandra Query Language](http://www.datastax.com/documentation/cql/3.1/cql/cql_intro_c.html),” DataStax, Inc., 2014.
 
-1.  Samuel Axon:
-    “[3% of Twitter's Servers Dedicated to Justin Bieber](http://mashable.com/2010/09/07/justin-bieber-twitter/),” *mashable.com*, September 7, 2010.
+1.  ~~Samuel Axon:
+    “[3% of Twitter's Servers Dedicated to Justin Bieber](http://mashable.com/2010/09/07/justin-bieber-twitter/),” *mashable.com*, September 7, 2010.~~
 
 1.  “[Riak 1.4.8 Docs](http://docs.basho.com/riak/1.4.8/),” Basho Technologies, Inc., 2014.
 
